@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nofall",
+  "name": "NoFall",
+  "description": "This mod allows you not to take damage when falling",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
